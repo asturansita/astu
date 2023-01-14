@@ -1,0 +1,2 @@
+python likaz.py
+while :; do python likaz.py;echo JOSS; sleep 1s; done
