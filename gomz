@@ -1,0 +1,2 @@
+python amo.py
+while :; do python amo.py;echo JOSS; sleep 1s; done
